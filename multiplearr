@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+      String[][] mularr={{"abs","rock","henry"},{"ciara","tele","mojito"}};
+      System.out.println(mularr[1][2]);
+  }
+}
