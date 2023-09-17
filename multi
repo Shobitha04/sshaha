@@ -1,0 +1,12 @@
+public class Main {
+  static void myMethod() {
+    System.out.println("I am THRILLED!");
+  }
+
+public static void main(String args[]){
+    myMethod();
+    myMethod();
+    myMethod();
+    
+    }
+}
