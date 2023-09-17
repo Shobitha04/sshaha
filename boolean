@@ -1,0 +1,9 @@
+public class Main{
+public static void main(String args[]){
+
+    boolean now = true;
+    boolean later= false;
+    System.out.println (now);
+    System.out.println (later);
+}
+}
