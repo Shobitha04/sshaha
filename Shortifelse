@@ -2,7 +2,7 @@ public class Main {
   public static void main(String[] args) {   
     int time = 20;
     String result;
-    result = (time < 18) ? "CANT VOTE" : "WELCOME TO VOTE";
+    result = (time < 18) ? "CANT VOTE" : "WELCOME TO VOTE";//if age is below 18, cannot vote, else can vote!!
     System.out.println(result);
   }
 }
