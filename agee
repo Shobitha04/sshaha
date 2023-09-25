@@ -9,7 +9,7 @@ public class Main {
       
     // If age is greater than, or equal to, 18, print "access granted"
     } else {
-      System.out.println("Access granted - You are old enough!"); 
+      System.out.println("Access granted - You are old enough!"); //old enough to vote!!
     }
     
   } 
