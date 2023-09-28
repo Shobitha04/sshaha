@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="styleA.css"/>
+<style>
+#example{
+    color:orange;
+}
+</style>
+</head>
+<body>
+<p id="example" style="color:red;">EXAMPLE</p>
+</body>
+</html>
