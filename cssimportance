@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+#demo{color:blue;}
+.test{color:green;}
+p{color:red;}
+</style>
+</head>
+<body>
+<p id="demo" class="test" style="color:yellow" > Hello World!</p>
+</body>
+</html>
