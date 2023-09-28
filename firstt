@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HI TATA</title>
+<style>
+img {
+ width: 100px;
+ border-radius: 10px;
+ float: left;
+ margin-right: 10px;
+
+}  
+</style>
+</head>
+<body>
+<img src=
+"imagess/img.jpg" style="height: 200px; width: 200px;" alt="a happy dog">
+<p>thank you very much</p>
+<p>just like animals</p>
+</body>
+</html>
