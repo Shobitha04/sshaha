@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
-    cars[0] = "rolls royce";
+    cars[0] = "rolls royce";//changing at first place ie index 0
     System.out.println(cars[0]);
   }
 }
