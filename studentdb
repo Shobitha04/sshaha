@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>student database</title>
+    <link rel="stylesheet" href="e.css">
+</head>
+<body>
+<form>
+Name<input type="text" id="name"><br> <br>
+DOB<input type="date" id="dob"><br> <br>
+
+<label>Branch:</label>
+
+<select name="sem" id="sem">
+  <option>CSE</option>
+  <option>ECE</option>
+  <option>MECH</option>
+  <option>C&IT</option>
+  <option>eee</option>
+  <option>BCA</option>
+  <option>MCA</option>
+</select> <BR> <BR>
+Semester<input type="text" id="branch"><br> <br>
+University<input type="text" id="uni"><br> <br>
+Date Of Admission<input type="date" id="DOA"><br> <br>
+Mobile Number<input type="number" id="num"><br> <br>
+<button>SUBMIT</button>
+</form>
+<button onclick="validate()">Submit</button>
+<p>Result:<span id="</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+</form>
+</body>
+</html>
